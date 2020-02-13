@@ -2,13 +2,13 @@
 
 
 # IaaS - Infrastructure-as-a-Service
-- Layanan cloud yang memungkinkan pengguna mendapatkan akses ke infrastruktur mereka sendiri - komputer, sumber daya jaringan, penyimpanan. Perlu dicatat bahwa ini biasanya sumber daya virtual, tetapi bisa jadi sumber daya nyata, fisik.
+  * Layanan cloud yang memungkinkan pengguna mendapatkan akses ke infrastruktur mereka sendiri - komputer, sumber daya jaringan, penyimpanan. Perlu dicatat bahwa ini biasanya sumber daya virtual, tetapi bisa jadi sumber daya nyata, fisik.
 
 # PaaS - Platform-as-a-Service
-- Layanan cloud yang mengabstraksi infrastruktur (pengguna tidak bisa melihat komputer, loadbalancers, dll.) Melainkan menyediakan platform pengembangan perangkat lunak. Dimungkinkan untuk membuat kode dan menjalankan aplikasi pada PaaS dan sistem memastikan bahwa aplikasi memiliki infrastruktur yang diperlukan untuk membuatnya berjalan dan skala.
+  * Layanan cloud yang mengabstraksi infrastruktur (pengguna tidak bisa melihat komputer, loadbalancers, dll.) Melainkan menyediakan platform pengembangan perangkat lunak. Dimungkinkan untuk membuat kode dan menjalankan aplikasi pada PaaS dan sistem memastikan bahwa aplikasi memiliki infrastruktur yang diperlukan untuk membuatnya berjalan dan skala.
 
 # SaaS - Software-as-a-Service
-- Layanan cloud yang memberikan pengguna akses ke perangkat lunak dengan layanan mandiri, sesuai permintaan. Ini bisa berupa aplikasi tunggal atau memberikan katalog perangkat lunak yang dapat dipilih pengguna.
+  * Layanan cloud yang memberikan pengguna akses ke perangkat lunak dengan layanan mandiri, sesuai permintaan. Ini bisa berupa aplikasi tunggal atau memberikan katalog perangkat lunak yang dapat dipilih pengguna.
 
 [link ke Sumber](https://www.quora.com/What-is-the-difference-between-IaaS-SaaS-and-Paas#)
 
@@ -23,10 +23,10 @@ Dengan model ini, satu versi aplikasi, dengan satu konfigurasi digunakan untuk s
 # Ada dua varietas utama SaaS:
 
 * SaaS Vertikal
-- Perangkat Lunak yang menjawab kebutuhan industri tertentu (mis. Perangkat lunak untuk kesehatan, pertanian, industri keuangan)
+  * Perangkat Lunak yang menjawab kebutuhan industri tertentu (mis. Perangkat lunak untuk kesehatan, pertanian, industri keuangan)
 
 * SaaS Horisontal
-- Produk-produk yang berfokus pada kategori perangkat lunak (pemasaran, penjualan, alat pengembang, SDM) tetapi agnostik industri.
+  * Produk-produk yang berfokus pada kategori perangkat lunak (pemasaran, penjualan, alat pengembang, SDM) tetapi agnostik industri.
 
 # Manfaat SAAS:
 
