@@ -12,3 +12,5 @@
 * [Minggu-9](https://github.com/reyhanfernanda/tekn-cloud-computing/tree/master/minggu-09)
 * [Minggu-10](https://github.com/reyhanfernanda/tekn-cloud-computing/tree/master/minggu-10)
 * [Minggu-11](https://github.com/reyhanfernanda/tekn-cloud-computing/tree/master/minggu-11)
+* [Minggu-12](https://github.com/reyhanfernanda/tekn-cloud-computing/tree/master/minggu-12)
+* [Minggu-13](https://github.com/reyhanfernanda/tekn-cloud-computing/tree/master/minggu-13)
