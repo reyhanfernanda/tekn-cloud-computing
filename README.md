@@ -16,7 +16,6 @@
 * [Minggu-13](https://github.com/reyhanfernanda/tekn-cloud-computing/tree/master/minggu-13)
 * [Minggu-13](https://github.com/reyhanfernanda/tekn-cloud-computing/tree/master/minggu-14)
 
-# -------------------- #
-Nama : Reyhan Fernanda
-Nim  : 175610078
-# -------------------- #
+# ---------------------------------- #
+Nama : Reyhan Fernanda (175610078)
+# ---------------------------------- #
